@@ -1,0 +1,16 @@
+﻿{
+  "name": "MediaInfo",
+  "description": "MediaInfo is a tool to analyze video and audio files and provide a unified display of the most relevant technical and tag data.",
+  "license": "https://mediaarea.net/en/MediaInfo/License",
+  "openSourceProject": 0,
+  "governmentWideReuseProject": 0,
+  "tags": [
+    "NARA",
+    "Metadata",
+    "video",
+    "audio"
+  ],
+  "contact": {
+    "email": "leslie.johnston@nara.gov"
+  }
+}
